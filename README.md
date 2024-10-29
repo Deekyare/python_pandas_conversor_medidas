@@ -1,4 +1,4 @@
-#Conversor de medidas 
+# Conversor de medidas 
 
 Realizamos un programa en Python con Pandas y OpenPyXl en el cual leemos un archivo Excel y convertimos las unidades de Cms en Pulgadas
 
